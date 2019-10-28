@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8f9da8a8ec5c00965b40c607db7c229",
+    "revision": "5859bf7d2eb17a73025bb77ff107d0d5",
     "url": "/Teamvoy/index.html"
   },
   {
-    "revision": "4fbd925d4d18287484bf",
+    "revision": "dff06a220e3ab693ed82",
     "url": "/Teamvoy/static/css/main.24383704.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Teamvoy/static/js/2.27d787b3.chunk.js"
   },
   {
-    "revision": "4fbd925d4d18287484bf",
-    "url": "/Teamvoy/static/js/main.671f259c.chunk.js"
+    "revision": "dff06a220e3ab693ed82",
+    "url": "/Teamvoy/static/js/main.442aee2d.chunk.js"
   },
   {
     "revision": "117ab2f2c4304646dc5f",
