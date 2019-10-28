@@ -6,10 +6,10 @@
   flex-direction: column;
   width: 65%;
   position: relative;
-  @media screen and (max-width: 775px){
+  @media screen and (max-width: 775px) {
     width: 40%;
   }
-  @media screen and (max-width: 450px){
+  @media screen and (max-width: 450px) {
     left: 0;
   }
 }
