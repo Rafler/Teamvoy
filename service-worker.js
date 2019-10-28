@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Teamvoy/precache-manifest.efb75a980976f07592a3501ad8544818.js"
+  "/Teamvoy/precache-manifest.3b79537f52e8956d57f1ccfe3592e872.js"
 );
 
 self.addEventListener('message', (event) => {
