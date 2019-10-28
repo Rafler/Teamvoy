@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Teamvoy/static/css/main.14293afb.chunk.css",
-    "main.js": "/Teamvoy/static/js/main.57461cc2.chunk.js",
-    "main.js.map": "/Teamvoy/static/js/main.57461cc2.chunk.js.map",
+    "main.css": "/Teamvoy/static/css/main.24383704.chunk.css",
+    "main.js": "/Teamvoy/static/js/main.671f259c.chunk.js",
+    "main.js.map": "/Teamvoy/static/js/main.671f259c.chunk.js.map",
     "runtime~main.js": "/Teamvoy/static/js/runtime~main.e03abb51.js",
     "runtime~main.js.map": "/Teamvoy/static/js/runtime~main.e03abb51.js.map",
     "static/js/2.27d787b3.chunk.js": "/Teamvoy/static/js/2.27d787b3.chunk.js",
     "static/js/2.27d787b3.chunk.js.map": "/Teamvoy/static/js/2.27d787b3.chunk.js.map",
     "index.html": "/Teamvoy/index.html",
-    "precache-manifest.efb75a980976f07592a3501ad8544818.js": "/Teamvoy/precache-manifest.efb75a980976f07592a3501ad8544818.js",
+    "precache-manifest.3b79537f52e8956d57f1ccfe3592e872.js": "/Teamvoy/precache-manifest.3b79537f52e8956d57f1ccfe3592e872.js",
     "service-worker.js": "/Teamvoy/service-worker.js",
-    "static/css/main.14293afb.chunk.css.map": "/Teamvoy/static/css/main.14293afb.chunk.css.map"
+    "static/css/main.24383704.chunk.css.map": "/Teamvoy/static/css/main.24383704.chunk.css.map"
   }
 }
