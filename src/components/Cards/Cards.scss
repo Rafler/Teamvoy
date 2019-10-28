@@ -1,0 +1,31 @@
+.left-block {
+  max-width: 910px;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  position: relative;
+  @media screen and (max-width: 775px){
+    width: 40%;
+  }
+  @media screen and (max-width: 450px){
+    left: 0;
+  }
+}
+
+.ui.primary.button {
+  margin-top: 50px;
+  width: 80%;
+  align-self: center;
+  white-space: nowrap;
+}
+
+.ui.cards > .card {
+  width: 140px;
+  min-width: 125px;
+  img {
+    align-self: center;
+    width: 70px;
+  }
+}
